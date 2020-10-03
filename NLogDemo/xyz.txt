@@ -1,0 +1,4 @@
+2020-10-01 10:50:45.4925 DEBUG Debug successful : Sum()
+2020-10-01 10:50:45.6917 ERROR Input numbers can not be zero
+2020-10-01 10:50:45.6917 WARN First and Second number shouldnot be equal to 0
+2020-10-01 10:50:45.6986 INFO Sum method passed, Result1
